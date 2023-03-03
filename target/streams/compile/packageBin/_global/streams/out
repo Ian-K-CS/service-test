@@ -1,0 +1,53 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/techtest_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Route$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Route$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$User$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Route$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Route$$anonfun$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps testing.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps testing.sc[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$Offer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$Offer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$User.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSRequest$anon$lazy$macro$15$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSRequest$anon$lazy$macro$15$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSCardsRequest$anon$lazy$macro$11$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSCardsRequest$anon$lazy$macro$11$1$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSCardsRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSCardsRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSRequest$anon$lazy$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSRequest$anon$lazy$macro$15$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSCardsRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSCardsRequest.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSCardsRequest$anon$lazy$macro$11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSCardsRequest$anon$lazy$macro$11$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/model/CSRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/model/CSRequest$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/service[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/service/Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/service/Client$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/service/Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/service/Client.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Maps$Offer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Maps$Offer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/clearscore/Route.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/ianking/IdeaProjects/TechTest/target/scala-2.13/classes/com/clearscore/Route.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
